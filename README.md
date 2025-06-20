@@ -80,5 +80,3 @@
   ```
 
 ---
-
-Let me know if you'd like to embed Swagger/OpenAPI instructions too or polish it up with badges and licensing info for public use on GitHub. Always happy to help you shine.
